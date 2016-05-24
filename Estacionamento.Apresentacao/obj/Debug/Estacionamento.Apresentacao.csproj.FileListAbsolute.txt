@@ -1,0 +1,11 @@
+C:\Users\aluno\Source\Repos\Estacionamento\Estacionamento.Apresentacao\obj\Debug\Estacionamento.Apresentacao.csprojResolveAssemblyReference.cache
+C:\Users\aluno\Source\Repos\Estacionamento\Estacionamento.Apresentacao\obj\Debug\Estacionamento.Apresentacao.EstacionamentoForm.resources
+C:\Users\aluno\Source\Repos\Estacionamento\Estacionamento.Apresentacao\obj\Debug\Estacionamento.Apresentacao.Properties.Resources.resources
+C:\Users\aluno\Source\Repos\Estacionamento\Estacionamento.Apresentacao\obj\Debug\Estacionamento.Apresentacao.csproj.GenerateResource.Cache
+C:\Users\aluno\Source\Repos\Estacionamento\Estacionamento.Apresentacao\bin\Debug\Estacionamento.Apresentacao.exe.config
+C:\Users\aluno\Source\Repos\Estacionamento\Estacionamento.Apresentacao\bin\Debug\Estacionamento.Apresentacao.exe
+C:\Users\aluno\Source\Repos\Estacionamento\Estacionamento.Apresentacao\bin\Debug\Estacionamento.Apresentacao.pdb
+C:\Users\aluno\Source\Repos\Estacionamento\Estacionamento.Apresentacao\bin\Debug\Estacionamento.Negocio.dll
+C:\Users\aluno\Source\Repos\Estacionamento\Estacionamento.Apresentacao\bin\Debug\Estacionamento.Negocio.pdb
+C:\Users\aluno\Source\Repos\Estacionamento\Estacionamento.Apresentacao\obj\Debug\Estacionamento.Apresentacao.exe
+C:\Users\aluno\Source\Repos\Estacionamento\Estacionamento.Apresentacao\obj\Debug\Estacionamento.Apresentacao.pdb

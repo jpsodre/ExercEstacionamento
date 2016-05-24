@@ -1,0 +1,4 @@
+C:\Users\aluno\Source\Repos\Estacionamento\Estacionamento.Negocio\bin\Debug\Estacionamento.Negocio.dll
+C:\Users\aluno\Source\Repos\Estacionamento\Estacionamento.Negocio\bin\Debug\Estacionamento.Negocio.pdb
+C:\Users\aluno\Source\Repos\Estacionamento\Estacionamento.Negocio\obj\Debug\Estacionamento.Negocio.dll
+C:\Users\aluno\Source\Repos\Estacionamento\Estacionamento.Negocio\obj\Debug\Estacionamento.Negocio.pdb
